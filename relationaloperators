@@ -1,0 +1,22 @@
+# Relational Operators in Python
+
+var1 = 7
+var2 = 5
+
+# Greater than
+print(var1 > var2)
+
+# Less than
+print(var1 < var2)
+
+# Greater than or equal to
+print(var1 >= var2)
+
+# Less than or equal to
+print(var1 <= var2)
+
+# Not equal to
+print(var1 != var2)
+
+# Equal to
+print(var1 == var2)
