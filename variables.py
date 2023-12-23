@@ -1,0 +1,28 @@
+# Note: In Python type of variable is determined by the value assigned to it
+
+# Creating a variable "var1"
+var1 = 123
+
+# Printing value in "var1"
+print("var1 ", var1)
+
+# Printing type of value in "var1"
+print(type(var1))
+
+# Setting a float value into "var1"
+var1 = 5.5
+
+# Printing value in "var1"
+print("var1 ", var1)
+
+# Printing type of value in "var1"
+print(type(var1))
+
+# Setting a string value into "var1"
+var1 = "hello world"
+
+# Printing value in "var1"
+print("var1 ", var1)
+
+# Printing type of value in "var1"
+print(type(var1))

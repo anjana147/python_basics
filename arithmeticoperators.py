@@ -1,0 +1,32 @@
+# Arithmetic Operators in Python
+
+var1 = 7
+var2 = 5
+
+# Addition
+sum = var1 + var2
+print("Sum ", sum)
+
+# Subtraction
+diff = var1 - var2
+print("Diff ", diff)
+
+# Multiplication
+mult = var1 * var2
+print("Product ", mult)
+
+# Division
+div = var1 / var2
+print("Div ", div)
+
+# Modulus
+mod = var1 % var2
+print("Mod ", mod)
+
+# Quotient
+quot = var1 // var2
+print("Quotient ", quot)
+
+# Power
+pow = var1 ** var2
+print("Power ", pow)
